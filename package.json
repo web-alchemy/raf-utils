@@ -1,0 +1,14 @@
+{
+  "name": "raf-utils",
+  "version": "0.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-alchemy/raf-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/web-alchemy/raf-utils/issues"
+  },
+  "homepage": "https://github.com/web-alchemy/raf-utils#readme"
+}
